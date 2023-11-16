@@ -1,0 +1,16 @@
+# notes for Git and Github
+
+## This is a comment that gives information
+
+-**Comment:**  This is a comment that gives information
+
+    -**Content:**
+        - What is git?
+
+        ```js
+        "use strict"
+
+        const myVar = []
+
+myVar.push("apple", "orange", "pear")
+```
